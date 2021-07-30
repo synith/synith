@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @synith
-- 👀 I’m interested in ... Learning how to get a job in the game dev industry as a programmer
+- 👀 I’m interested in ... starting my career in the game dev industry as a programmer
 - 🌱 I’m currently learning ... Unity Game Development with C#
 - 💞️ I’m looking to collaborate on ... Unity projects as a programmer
 - 📫 How to reach me ... 
