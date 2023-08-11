@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... collaborative projects, contracts and game jams
 - 📫 How to reach me ...
   - [discord](https://discord.gg/BbYnSQ55dP)
-  - [email](mail@synith.dev)
+  - mail@synith.dev
 
 With 3 years of experience in Unity development using C#, I specialize in Gameplay, Physics and UI Programming. My skills have been applied to various projects, from action-packed 3D multiplayer shooters to educational games that foster children's learning experiences.
 
