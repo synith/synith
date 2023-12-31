@@ -1,7 +1,11 @@
+<!---
 **Jordan Reed (Synith)** <br> _Gameplay Programmer_
+--->
 
 #### 👋 Introduction
-Hi there! <br> I'm Synith, a gameplay programmer with 3 years in Unity and C#, passionate about crafting engaging gameplay and intuitive UIs. <br> I love clean, modular code and occasionally dive into project management. <br> Always coding, always learning.
+Hi there! <br>
+
+I'm Synith, a gameplay programmer with 3 years in Unity and C#, passionate about crafting engaging gameplay and intuitive UIs. <br> I love clean, modular code and occasionally dive into project management. <br> Always coding, always learning.
 
 #### 🎮 Specialization
 - **Character Controllers**
