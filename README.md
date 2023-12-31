@@ -8,7 +8,7 @@ Hi there! <br> I'm Synith, a gameplay programmer with 3 years in Unity and C#, p
 - **Physics**
 - **UI**
 - **3D Math**
-
+<!---
 #### 💼 Notable Projects
 - **_Tape to Tape_** - a hockey roguelite on steam. <br>
   - **Stats**: persistent stats across all game modes
@@ -18,7 +18,7 @@ Hi there! <br> I'm Synith, a gameplay programmer with 3 years in Unity and C#, p
 #### 📫 How to reach me ...
   - [discord](https://discord.gg/BbYnSQ55dP)
   - [email](jordan@synith.dev)
-
+--->
 <!---
 synith/synith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
