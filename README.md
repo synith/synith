@@ -1,7 +1,7 @@
 <!---
 **Jordan Reed (Synith)** <br> _Gameplay Programmer_
 --->
-
+<!---
 #### 👋 Introduction
 Hi there! <br>
 
@@ -12,6 +12,7 @@ I'm Synith, a gameplay programmer with 3 years in Unity and C#, passionate about
 - **Physics**
 - **UI**
 - **3D Math**
+--->
 <!---
 #### 💼 Notable Projects
 - **_Tape to Tape_** - a hockey roguelite on steam. <br>
