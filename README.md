@@ -5,7 +5,7 @@
 #### 👋 Introduction
 Hi there! <br>
 
-I'm Synith, a gameplay programmer with over 3 years of experience, passionate about crafting engaging gameplay and systems. <br> I love clean, modular code and occasionally dive into project management. <br> Always coding, always learning.
+I'm Synith, a gameplay programmer with over 3 years of experience, passionate about crafting engaging gameplay systems. <br> I love clean, modular code and occasionally dive into project management. <br> Always coding, always learning.
 <!---
 #### 🎮 Specialization
 - **Character Controllers**
